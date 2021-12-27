@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal-24&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal-24" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and working on a restaurant website
 
 - 👨‍💻 All of my projects are available at [www.prajjwal.codes](www.prajjwal.codes)
 
