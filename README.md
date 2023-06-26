@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal-24&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal-24" /> </p>
 
-- 🌱 I’m currently working with **Valorant Consultancy** as a live project intern
+- 🌱 I have worked with **Amazon** with **Valorant Consultancy** as Software Development Engineer Intern
 
 - 👨‍💻 All of my projects are available at [www.prajjwal.codes](www.prajjwal.codes)
 
