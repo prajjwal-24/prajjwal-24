@@ -5,7 +5,7 @@
 
 - 🌱 I have worked with **Amazon** with **Valorant Consultancy** as Software Development Engineer Intern
 
-- 👨‍💻 All of my projects are available at [www.prajjwal.codes](www.prajjwal.codes)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prajjwal-sharma-portfolio.netlify.app)
 
 - 📫 How to reach me **prajjwalsharma.bpl@gmail.com**
 
