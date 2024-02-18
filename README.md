@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **prajjwalsharma.bpl@gmail.com**
 
-- 📄 Know about my experiences [https://www.prajjwal.codes/components.html](https://www.prajjwal.codes/components.html)
+- 📄 Know about my experiences [Portfolio Projects](https://prajjwal-sharma-portfolio.netlify.app)
 
-- ⚡ Fun fact **I love listening to vintage SRK songs**
+- ⚡ Fun fact **I love playing Keyboard 🎹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
